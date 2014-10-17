@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zyg:home|Door43 (zyg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zyg|d43-zyg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zyg/archive/master.zip|d43-zyg.zip]]
+
+**Recent Changes**
+{{changes>ns = zyg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zyg|Ethnologue data]]
+
